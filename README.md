@@ -24,4 +24,4 @@ vcs.commit("Second commit")
 vcs.log()       # View history
 vcs.revert(1)   # Revert to the first commit
 vcs.show()      # Show current file content
-**
+**.,,,,,,
